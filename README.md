@@ -24,19 +24,16 @@ The data contained 100,000+ records in total.
 # SQL Queries
 - Loaded data 8 tables into Mysql server with [Python](https://github.com/mrunalibharshankar/SQL/blob/70bada1a623d7b7edf0c41cf85bd6b5aae13a018/load_csv_files.py)
 - In Mysql, used Joins, CTE, Windows function to find out the insights about the data.
-  
 [SQL Output](https://github.com/mrunalibharshankar/SQL/blob/c84d9cc299a8fbfe7432c4ca2fdcb4a2f787eec9/paintings_queries.sql)
 
 # Data Visualization in Tableau
-- The Dashboard contained the worksheets about,
-  1. KPI
-  2. Artist and Painting name Details
-  3. Painting Prices
-  4. Painting Subjects
-  5. Museum Name, Address and Phone number
-  6. Filters on Countries, Affordability and Opening/Closing hours of museums with Day.
-
-
+- The Dashboard contained the worksheets about:
+   1. KPI
+   2. Artist and Painting name Details
+   3. Painting Prices
+   4. Painting Subjects
+   5. Museum Name, Address and Phone number
+   6. Filters on Countries, Affordability and Opening/Closing hours of museums with Day.
 [Tableau Dashboard](https://public.tableau.com/app/profile/mrunali.bharshankar/viz/FamousPaintingandArtistDetailsDashboard1/FamousPaintingsandArtistsDetails)
 
 
