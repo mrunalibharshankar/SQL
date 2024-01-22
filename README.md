@@ -18,18 +18,26 @@ The goal was to find out the meaning insights from the given data.
 The data contained 100,000+ records in total.
 
 # Data Cleaning in Excel
-- 
+- Data contained duplicate and some incorrect values.
+- It had Regex had to rename it. Some columns had missing value about location such as state and city.
 
 # SQL Queries
-- Created new field list ChurnRate by dividing [Exited]/[total_counter] to find out [Sum_of_Churnrate]
-- First analysis was to draw conclusion of [NoOfProducts] against [ChurnRate] and [CreditScore]
+- Loaded data 8 tables into Mysql server with [Python](https://github.com/mrunalibharshankar/SQL/blob/70bada1a623d7b7edf0c41cf85bd6b5aae13a018/load_csv_files.py)
+- In Mysql, used Joins, CTE, Windows function to find out the insights about the data.
   
 [SQL Output](https://github.com/mrunalibharshankar/SQL/blob/c84d9cc299a8fbfe7432c4ca2fdcb4a2f787eec9/paintings_queries.sql)
 
 # Data Visualization in Tableau
+- The Dashboard contained the worksheets about,
+  1. KPI
+  2. Artist and Painting name Details
+  3. Painting Prices
+  4. Painting Subjects
+  5. Museum Name, Address and Phone number
+  6. Filters on Countries, Affordability and Opening/Closing hours of museums with Day.
 
 
-![Alt Text](https://github.com/mrunalibharshankar/SQL/blob/6fe5977c551b3a29c68fc8ec14f3e570babc5ec5/Famous%20Painting%20Viz.png)
+[Tableau Dashboard](https://public.tableau.com/app/profile/mrunali.bharshankar/viz/FamousPaintingandArtistDetailsDashboard1/FamousPaintingsandArtistsDetails)
 
 
 
