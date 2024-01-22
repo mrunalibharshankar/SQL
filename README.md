@@ -24,7 +24,7 @@ The data contained 100,000+ records in total.
 - Created new field list ChurnRate by dividing [Exited]/[total_counter] to find out [Sum_of_Churnrate]
 - First analysis was to draw conclusion of [NoOfProducts] against [ChurnRate] and [CreditScore]
   
-![Alt Text](https://github.com/mrunalibharshankar/SQL/blob/c84d9cc299a8fbfe7432c4ca2fdcb4a2f787eec9/paintings_queries.sql)
+[SQL Output](https://github.com/mrunalibharshankar/SQL/blob/c84d9cc299a8fbfe7432c4ca2fdcb4a2f787eec9/paintings_queries.sql)
 
 # Data Visualization in Tableau
 
