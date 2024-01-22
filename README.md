@@ -29,7 +29,7 @@ The data contained 100,000+ records in total.
 # Data Visualization in Tableau
 
 
-![Alt Text](https://github.com/mrunalibharshankar/RegressionAnalysis/blob/8eacec2c83b182301b9bfa681adfbde0396cc589/RegressionS1.png)
+![Alt Text](https://github.com/mrunalibharshankar/SQL/blob/6fe5977c551b3a29c68fc8ec14f3e570babc5ec5/Famous%20Painting%20Viz.png)
 
 
 
