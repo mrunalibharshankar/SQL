@@ -27,13 +27,14 @@ The data contained 100,000+ records in total.
 [SQL Output](https://github.com/mrunalibharshankar/SQL/blob/c84d9cc299a8fbfe7432c4ca2fdcb4a2f787eec9/paintings_queries.sql)
 
 # Data Visualization in Tableau
-- The Dashboard contained the worksheets about:
-   1. KPI
-   2. Artist and Painting name Details
-   3. Painting Prices
-   4. Painting Subjects
-   5. Museum Name, Address and Phone number
-   6. Filters on Countries, Affordability and Opening/Closing hours of museums with Day.
+
+The Dashboard contained the worksheets about:
+1. KPI
+2. Artist and Painting name Details
+3. Painting Prices
+4. Painting Subjects
+5. Museum Name, Address and Phone number
+6. Filters on Countries, Affordability and Opening/Closing hours of museums with Day.
 ![Alt Text](https://github.com/mrunalibharshankar/SQL/blob/09680e2e01eabbc5d65a096c64c69e9b5ef686ff/Famous%20Painting%20Viz.png)
 
 To view the full tableau project click this link,
