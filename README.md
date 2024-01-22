@@ -34,9 +34,9 @@ The data contained 100,000+ records in total.
    4. Painting Subjects
    5. Museum Name, Address and Phone number
    6. Filters on Countries, Affordability and Opening/Closing hours of museums with Day.
-[!Alt](https://github.com/mrunalibharshankar/SQL/blob/09680e2e01eabbc5d65a096c64c69e9b5ef686ff/Famous%20Painting%20Viz.png)
+![Alt Text](https://github.com/mrunalibharshankar/SQL/blob/09680e2e01eabbc5d65a096c64c69e9b5ef686ff/Famous%20Painting%20Viz.png)
 
-To view the full project click this link,
+To view the full tableau project click this link,
 [Tableau Dashboard](https://public.tableau.com/app/profile/mrunali.bharshankar/viz/FamousPaintingandArtistDetailsDashboard1/FamousPaintingsandArtistsDetails)
 
 
